@@ -32,6 +32,9 @@
 .download-button{
     margin: 5% 3% 5% 0 !important;
 }
+#headinghh{
+    text-align: left;
+}
 .title-image{
     width: 60%;
     transform: rotate(20deg);
