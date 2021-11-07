@@ -1,5 +1,5 @@
-var user = document.querySelector("#userName") ;
-var pass = document.querySelector("#userPassword") ;
+var user = document.querySelector("#inputUsernameEmail") ;
+var pass = document.querySelector("#inputPassword") ;
 var butt = document.querySelector(".button-submit") ;
 var out = document.querySelector(".out-display") ;
 function loginPage(){
