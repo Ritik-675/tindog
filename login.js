@@ -5,7 +5,7 @@ var out = document.querySelector(".out-display") ;
 function loginPage(){
     console.log("sjs") ;
     if(user.value==="ritik" && pass.value==="ritik"){
-        window.open("https://tindog-ritz.netlify.app/","_self");
+        window.open("https://tindog-ritz.netlify.app/home","_self");
     }else{
         out.innerHTML = "**Incorrect Credentials**" ;
     }
